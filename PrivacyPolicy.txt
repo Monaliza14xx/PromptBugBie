@@ -1,0 +1,32 @@
+Privacy Policy
+Effective Date: 22/11/2024
+
+1. Introduction
+Your privacy is important to us. This Privacy Policy outlines how [Your Extension Name] (“we,” “us,” or “our”) collects, uses, and protects your information when you use our browser extension.
+
+2. Information We Collect
+We may collect the following types of information:
+
+Personal Data: We do not collect any personally identifiable information (PII) from users unless explicitly provided (e.g., when saving prompts or settings).
+Usage Data: We may collect information about how you use the extension, including features accessed and the frequency of use, to improve our services.
+3. How We Use Your Information
+We use the information we collect for the following purposes:
+
+To provide and maintain our extension: Ensuring seamless functionality and performance.
+To improve our services: Analyzing usage data to enhance user experience and introduce new features.
+4. Data Storage and Security
+We are committed to protecting your information. Any data stored in your browser's local storage is kept secure and is not shared with third parties. We utilize industry-standard security measures to safeguard your data.
+
+5. Third-Party Services
+Our extension does not share or sell your information to third-party services. Any data collected remains within the extension for the purposes outlined in this policy.
+
+6. Your Rights
+You have the right to:
+
+Access and update your saved prompts and settings.
+Delete any data stored by uninstalling the extension.
+7. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Changes will be reflected in the policy, and users will be notified of significant changes via updates in the extension.
+
+8. Contact Us
+If you have any questions about this Privacy Policy or our practices, please contact us at Khonepaserth.snk14@gmail.com
