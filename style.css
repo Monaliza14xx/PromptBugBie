@@ -82,3 +82,28 @@
   .clear-btn:hover {
     background-color: #4299e1; /* Slightly darker blue */
   }
+
+  #promptList {
+  max-height: 200px; /* Adjust the max height as needed */
+  overflow-y: auto; /* Enable vertical scrolling */
+  padding-right: 8px; /* Add padding to avoid cutting off content */
+  scrollbar-width: thin; /* For modern browsers (optional) */
+}
+
+/* Optional styling for a custom scrollbar */
+#promptList::-webkit-scrollbar {
+  width: 8px; /* Width of the scrollbar */
+}
+
+#promptList::-webkit-scrollbar-thumb {
+  background: #4a5568; /* Dark gray for the scrollbar thumb */
+  border-radius: 4px;
+}
+
+#promptList::-webkit-scrollbar-thumb:hover {
+  background: #718096; /* Lighter gray when hovered */
+}
+
+#promptList::-webkit-scrollbar-track {
+  background: #2d3748; /* Background for the scrollbar track */
+}

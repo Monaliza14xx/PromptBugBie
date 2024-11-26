@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "PromptBugBie",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Save and manage prompts with customizable variables for seamless copying and pasting, enhancing your workflow as a creator.",
   "permissions": ["storage"],
   "action": {
